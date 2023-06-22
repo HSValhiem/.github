@@ -9,7 +9,7 @@
 ### Latest Valheim Version Changes
 - [0.216.9 WinMerge Change Report](https://hsvalhiem.github.io/Valheim-Sourcecode-Changes/)
 
-### In House Custom Tools (Some may be Private)
+### In House Custom Tools
 - [Mod Source Checker](https://github.com/HSValhiem/HST_ModSourceChecker) Detects Changed Source code in Mods from Latest update
 - [Mod Checker](https://github.com/HSValhiem/HST_ModChecker) Detects if a Mod uses Network Resources to Determing if its Server side or Client Side
 - [Fancier Log](https://github.com/HSValhiem/HST_FancierLog) | [Fancier Log (PowerShell Script)](https://github.com/HSValhiem/HS_fancier_log_file) Displays the BepInEx Console Log in a Pretty Way
