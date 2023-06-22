@@ -6,6 +6,9 @@
 - Valheim Current Unity Engine: 2020.3.45
 - Valheim Modpack Version: 0.215.2
 
+# Latest Valheim Version Changes
+- [WinMerge Change Report](https://hsvalhiem.github.io/Valheim-Sourcecode-Changes/)
+
 ### Modding Info
 - [Unity Scripting Reference](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/index.html)
 - [Valheim Prefab List](https://valheim-modding.github.io/Jotunn/data/prefabs/prefab-list.html)
