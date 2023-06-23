@@ -37,18 +37,18 @@
 
 
 ### BepInEx Harmony Guides
-- [Prefix changes](https://github.com/BepInEx/HarmonyX/wiki/Prefix-changes)
-- [HarmonyX Changes](https://github.com/BepInEx/HarmonyX/wiki/Difference-between-Harmony-and-HarmonyX)
-- [Patcher Flow](https://outward.fandom.com/wiki/Mod_development_guide/Harmony)
-- [Valid Patch Targets with Harmony](https://github.com/BepInEx/HarmonyX/wiki/Valid-patch-targets)
-- [Patching with Harmony](https://github.com/BepInEx/HarmonyX/wiki/Patching-with-Harmony)
 - [Harmony Basics](https://api.raftmodding.com/modding-tutorials/harmony-basics)
-- [Harmony Patch Priorities](https://harmony.pardeike.net/articles/priorities.html)\
-- [Patch Prorities](https://harmony.pardeike.net/articles/priorities.html)
-- [Patch Paramaters](https://github.com/BepInEx/HarmonyX/wiki/Patch-parameters)
+- [Harmony Wiki](https://harmony.pardeike.net/articles/intro.html)
+- [Harmony Patch Priorities](https://harmony.pardeike.net/articles/priorities.html)
+- [Patcher Flow](https://outward.fandom.com/wiki/Mod_development_guide/Harmony)
+- [HarmonyX Patch Paramaters](https://github.com/BepInEx/HarmonyX/wiki/Patch-parameters)
+- [HarmonyX Prefix changes](https://github.com/BepInEx/HarmonyX/wiki/Prefix-changes)
+- [HarmonyX Changes](https://github.com/BepInEx/HarmonyX/wiki/Difference-between-Harmony-and-HarmonyX)
+- [HarmonyX Valid Patch Targets](https://github.com/BepInEx/HarmonyX/wiki/Valid-patch-targets)
+- [HarmonyX Patching](https://github.com/BepInEx/HarmonyX/wiki/Patching-with-Harmony)
 
 
-### Example Code Snipplets
+### Valid Default Methods
     void Start() is called is the GameObject is enabled
     void Awake() is called prior to Start()
     void Update() is called every frame, can be skipped for several frames to keep FPS up
@@ -58,11 +58,8 @@
     void OnDestroy() is called when the GameObject is destroyed (via GameObject.Destroy)
     void OnGUI() is called when drawing and allows the script to use the GUI-API (described later on)
     
-### Reverse Enginering / Cheating / AntiCheat
+### .net Loader
 - [DoorStop (The Loader for BepInEx)](https://github.com/NeighTools/UnityDoorstop)
-
-### Game Source for Offline Development
-- [Valhiem Shared](https://cs.rin.ru/forum/viewtopic.php?f=10&t=97899&start=990)
 
 ### ModPack Related
 - [Valheim Plus Replacments List](https://github.com/AzumattDev/Valheim-Plus-Replacements)
