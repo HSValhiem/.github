@@ -2,7 +2,7 @@
 
 ### Game Info
 - Valheim Latest Version: 0.216.9
-- Valheim Latest Test Version: ---
+- Valheim Latest Test Version: 0.217.6
 - Valheim Current Unity Engine: 2020.3.45
 - Valheim Modpack Version: 0.215.2
 
