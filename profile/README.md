@@ -32,9 +32,12 @@
 - [BepInEx Utility Functions](https://github.com/BepInEx/BepInEx.Utility)
 - [BepInEx Patcher Tutorial](https://docs.bepinex.dev/articles/dev_guide/preloader_patchers.html)
 - [HOOKGEN Tutorial](https://github.com/MonoMod/MonoMod/blob/master/README-RuntimeDetour.md#using-hookgen)
-= [Expand World Documentation](https://github.com/JereKuusela/valheim-expand_world)
+- [Expand World Documentation](https://github.com/JereKuusela/valheim-expand_world)
 - [Vanilla Prefabs List](https://valheim-modding.github.io/Jotunn/data/prefabs/overview.html)
 
+### Scripting Refernces
+- [Unity ScriptableObject](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
+- [Unity MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
 
 ### BepInEx Harmony Guides
 - [Harmony Basics](https://api.raftmodding.com/modding-tutorials/harmony-basics)
@@ -57,7 +60,12 @@
     void OnEnable()/OnDiable() is called when the GameObject is enabled/disabled
     void OnDestroy() is called when the GameObject is destroyed (via GameObject.Destroy)
     void OnGUI() is called when drawing and allows the script to use the GUI-API (described later on)
-    
+
+### Shaders
+- [BlitCopyHDRTonemap)](https://github.com/repalash/Open-Shaders/blob/master/Engines/Unity/Builtin/DefaultResourcesExtra/Internal-BlitCopyHDRTonemap.shader)
+- [SimpleClear)](https://github.com/microsoft/Imagine_fudge-roll/blob/master/Fudge%20Roll/assets/standard%20assets/effects/imageeffects/shaders/SimpleClear.shader)
+- [CameraMotionBlurDX11)](https://github.com/microsoft/Imagine_fudge-roll/blob/master/Fudge%20Roll/assets/standard%20assets/effects/imageeffects/shaders/CameraMotionBlurDX11.shader)
+
 ### .net Loader
 - [DoorStop (The Loader for BepInEx)](https://github.com/NeighTools/UnityDoorstop)
 
@@ -71,7 +79,7 @@
 - [Digitalroot.Valheim.PluginInfo](https://github.com/Digitalroot-Valheim/Digitalroot.Valheim.PluginInfo)
 - [Digitalroot.CustomMonoBehaviours](https://github.com/Digitalroot-Valheim/Digitalroot.CustomMonoBehaviours)
 - [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor#readme)
-
+- [BepInEx ScriptLoader Plugin](https://github.com/ghorsington/BepInEx.ScriptLoader)
 
 ### Usefull Modding Libraries
 - [AzuMatt PieceManager](https://github.com/AzumattDev/PieceManager)
@@ -89,6 +97,17 @@
 - [Digital Root Modding Framework](https://github.com/Digitalroot-Valheim/DMF)
 - [Github Release Version Checker Lib](https://github.com/Digitalroot-Valheim/VersionCheck)
 - [RapidGUI Unity GUI Extensions](https://github.com/fuqunaga/RapidGUI)
+- [c# MCS](https://github.com/sinai-dev/mcs-unity)
+
+### Networking
+- [lidgren network](https://github.com/lidgren/lidgren-network-gen3)
+
+### UI
+- [DearIMGUI](https://github.com/tracedgod/dear-imgui-unity)
+
+### AntiCheat
+- [CastCodes-VAC](https://github.com/CastCodes/VAC/tree/main)
+- [AzuAntiCheat](https://valheim.thunderstore.io/package/Azumatt/AzuAntiCheat/)
 
 ### Obfuscating Code
 - [XenocodeRCE-dnSpyDetector](https://github.com/XenocodeRCE/dnSpyDetector)
@@ -122,6 +141,8 @@
 - [Deobfuscation Tools](https://github.com/NotPrab/.NET-Deobfuscator)
 - [Thunderstore Mod Uploader](https://github.com/Digitalroot-Valheim/Digitalroot.ModUploader)
 - [Main World Map Image](https://preview.redd.it/5uljbr2k8ev71.jpg?width=3728&format=pjpg&auto=webp&v=enabled&s=176b911c42475d4b190f79305a7ead415bedb48d)
+- [Develop Mods in Unity](https://github.com/PassivePicasso/ThunderKit)
+
 
 ### Notable Valhiem Githubs
 - [Blaxxon-boop(AKA Smoothbrain](https://github.com/blaxxun-boop)
@@ -137,6 +158,10 @@
 - [.net Code Lookup Tool](https://learn.microsoft.com/en-us/dotnet/api/system.reflection.propertyinfo.setvalue?view=netframework-4.6.2)
 - [Valheim Server Database](https://valheimservers.net)
 - [Online YML Viewer](https://jsonformatter.org/yaml-viewer)
+- [Realtime AI Upscaler with API](https://replicate.com/nightmareai/real-esrgan)
+
+### Roslyn Tutorials
+- [Runtime CSharp Code Compilation](https://weblog.west-wind.com/posts/2022/Jun/07/Runtime-CSharp-Code-Compilation-Revisited-for-Roslyn)
 
 ### Unity Tutorials
 - [Valheim Unity Asset Creation](https://valheim-modding.github.io/Jotunn/tutorials/asset-creation.html)
@@ -145,6 +170,7 @@
 - [Creating Valheim Unity Project](https://github.com/Valheim-Modding/Wiki/wiki/Valheim-Unity-Project-Guide)
 - [Creating a Patched Mono for DNspy Debugging](https://github.com/Neoshrimp/dnSpy-Unity-mono-unity2021.xx)
 - [JotunnModStub](https://github.com/Valheim-Modding/JotunnModStub)
+- [remove splash screen](https://github.com/kiraio-moe/remove-unity-splash-screen)
 
 ### C++ Resources
 - [VCPKG Package Installer](https://vcpkg.io/en/getting-started.html)
