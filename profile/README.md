@@ -35,6 +35,9 @@
 - [Expand World Documentation](https://github.com/JereKuusela/valheim-expand_world)
 - [Vanilla Prefabs List](https://valheim-modding.github.io/Jotunn/data/prefabs/overview.html)
 
+### Unity
+- [Unity Source](https://github.com/Unity-Technologies/UnityCsReference/tree/e7d9de5f09767c3320b6dab51bc2c2dc90447786)
+
 ### Scripting Refernces
 - [Unity ScriptableObject](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
 - [Unity MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
@@ -134,6 +137,7 @@
 - [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
 - [Asset Ripper for Ripping Base Game Assets](https://github.com/AssetRipper/AssetRipper)
 - [ValheimExportHelper Plugin for Asset Ripper](https://github.com/heinermann/ValheimExportHelper)
+- [AssetStudio](https://github.com/Perfare/AssetStudio)
 - [DNSpy](https://github.com/dnSpyEx/dnSpy)
 - [DNSpy Plugin to help Reverse Obfuscated Code](https://github.com/holly-hacker/dnSpy.Extension.HoLLy)
 - [Resharper for Visual Studio](https://www.jetbrains.com/resharper/download/#section=web-installer)
@@ -143,10 +147,10 @@
 - [Main World Map Image](https://preview.redd.it/5uljbr2k8ev71.jpg?width=3728&format=pjpg&auto=webp&v=enabled&s=176b911c42475d4b190f79305a7ead415bedb48d)
 - [Develop Mods in Unity](https://github.com/PassivePicasso/ThunderKit)
 
-
-### Notable Valhiem Githubs
+### Notable Githubs
 - [Blaxxon-boop(AKA Smoothbrain](https://github.com/blaxxun-boop)
 - [Azumatt](https://github.com/AzumattDev)
+- [Epicguru](https://github.com/Epicguru?tab=repositories)
 
 ### Online Tools
 - [Normal Map Creator](https://cpetry.github.io/NormalMap-Online)
@@ -167,7 +171,6 @@
 - [Valheim Unity Asset Creation](https://valheim-modding.github.io/Jotunn/tutorials/asset-creation.html)
 - [Valheim-Unity-Project-Guide](https://github.com/Valheim-Modding/Wiki/wiki/Valheim-Unity-Project-Guide)
 - [Mod Creation and Mod Stub for use with Jotunn Modding Framework](https://valheim-modding.github.io/Jotunn/guides/overview.html)
-- [Creating Valheim Unity Project](https://github.com/Valheim-Modding/Wiki/wiki/Valheim-Unity-Project-Guide)
 - [Creating a Patched Mono for DNspy Debugging](https://github.com/Neoshrimp/dnSpy-Unity-mono-unity2021.xx)
 - [JotunnModStub](https://github.com/Valheim-Modding/JotunnModStub)
 - [remove splash screen](https://github.com/kiraio-moe/remove-unity-splash-screen)
