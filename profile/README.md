@@ -1,7 +1,7 @@
 # Valheim Modding Information and Links
 
 ### Game Info
-- Valheim Latest Version: 0.216.9
+- Valheim Latest Version: 0.218.15
 - Valheim Latest Test Version: ---
 - Valheim Latest Unity Engine: 2022.3.17
 - Valheim Last Major Version: 0.217.46
