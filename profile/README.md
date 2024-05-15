@@ -6,7 +6,7 @@
 - Valheim Latest Unity Engine: 2022.3.17
 - Valheim Last Major Version: 0.217.46
 - Valheim Last Unity Engine: 2020.3.45
-- Valheim Modpack Version: ---
+- HS Modpack Version: ---
 
 ### Latest Valheim Version Changes
 - [0.217.46-to-0.218.15 WinMerge Change Report](https://hsvalhiem.github.io/Valheim-Sourcecode-Changes/)
