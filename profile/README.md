@@ -103,6 +103,7 @@
 - [Github Release Version Checker Lib](https://github.com/Digitalroot-Valheim/VersionCheck)
 - [RapidGUI Unity GUI Extensions](https://github.com/fuqunaga/RapidGUI)
 - [c# MCS](https://github.com/sinai-dev/mcs-unity)
+- [CSync NextGen Config Syncing](https://github.com/The-Egg-Corp/CSync)
 
 ### Networking
 - [lidgren network](https://github.com/lidgren/lidgren-network-gen3)
