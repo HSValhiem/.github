@@ -1,23 +1,20 @@
 # Valheim Modding Information and Links
 
 ### Game Info
-- Valheim Latest Version: 0.218.15
-- Valheim Latest Test Version: ---
-- Valheim Latest Unity Engine: 2022.3.17
-- Valheim Last Major Version: 0.217.46
-- Valheim Last Unity Engine: 2020.3.45
-- HS Modpack Version: ---
+- Valheim Latest Version: 1.0.21 (2026-10-28)
+- Valheim Previous Version: 1.0.20 (2026-10-15)
+- Valheim Unity Engine: 6000.0.75f1
+- Steam App: 892970
 
 ### Latest Valheim Version Changes
-- [0.217.46-to-0.218.15 WinMerge Change Report](https://hsvalhiem.github.io/Valheim-Sourcecode-Changes/)
+- [1.0.20-to-1.0.21 Change Report](https://hsvalhiem.github.io/Valheim-Assembly-Diff/reports/1.0.20-to-1.0.21/): added, removed and changed types and members, the changes most likely to break mods, old and new code side by side
+- [All Update Reports](https://hsvalhiem.github.io/Valheim-Assembly-Diff/)
 
 ### In House Custom Tools
-- [Mod Source Checker](https://github.com/HSValhiem/HST_ModSourceChecker) Detects Changed Source code in Mods from Latest update
-- [Mod Checker](https://github.com/HSValhiem/HST_ModChecker) Detects if a Mod uses Network Resources to Determing if its Server side or Client Side
-- [Fancier Log](https://github.com/HSValhiem/HST_FancierLog) | [Fancier Log (PowerShell Script)](https://github.com/HSValhiem/HS_fancier_log_file) Displays the BepInEx Console Log in a Pretty Way
+- [Valheim Assembly Diff](https://github.com/HSValhiem/Valheim-Assembly-Diff) Semantic diff and mod-impact analysis for Valheim's managed assemblies: Harmony patch map, per-mod compatibility check, symbol database. Generates the update reports above
 
 ### Modding Info
-- [Unity Scripting Reference](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/index.html)
+- [Unity Scripting Reference](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/index.html)
 - [Valheim Prefab List](https://valheim-modding.github.io/Jotunn/data/prefabs/prefab-list.html)
 - [Link to Check Latest Game Version](https://store.steampowered.com/news/app/892970)
 - [Basic Plugin for Bepinex Guide(No Jotuun)](https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/1_setup.html)
