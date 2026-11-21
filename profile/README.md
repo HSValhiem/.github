@@ -16,6 +16,7 @@
 
 ### Our Mods
 - [HS_CraftableBossItems](https://github.com/HSValhiem/HS_CraftableBossItems) Craft boss trophies and boss drops, with configurable stations, levels and costs
+- [HS_FancierConsole](https://github.com/HSValhiem/HS_FancierConsole) BepInEx preloader patcher: coloured console, formatted stack traces, intro banner and window title
 
 ### Modding Info
 - [Unity Scripting Reference](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/index.html)
