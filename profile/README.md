@@ -12,6 +12,10 @@
 
 ### In House Custom Tools
 - [Valheim Assembly Diff](https://github.com/HSValhiem/Valheim-Assembly-Diff) Semantic diff and mod-impact analysis for Valheim's managed assemblies: Harmony patch map, per-mod compatibility check, symbol database. Generates the update reports above
+- [HS_ModStub](https://github.com/HSValhiem/HS_ModStub) Template for our BepInEx mods: build pipeline, ServerSync config sync, version check, Thunderstore package
+
+### Our Mods
+- [HS_CraftableBossItems](https://github.com/HSValhiem/HS_CraftableBossItems) Craft boss trophies and boss drops, with configurable stations, levels and costs
 
 ### Modding Info
 - [Unity Scripting Reference](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/index.html)
